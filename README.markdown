@@ -1,5 +1,9 @@
 ## Instruction installation:
 
+-2. Download mysql community server
+
+-1. Download Sequel Pro
+
 0. Download wampp
     Install it
 
